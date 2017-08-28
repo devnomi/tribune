@@ -200,3 +200,42 @@
 {
     background-color: #F3F0E7;
 }
+.olive
+{
+    color: olive;
+}
+
+a{
+	text-decoration: none !important;
+}
+
+.footer
+{
+	background: #f3f0e7;
+	margin-top:100px;
+	padding:10px 20px;
+}
+
+
+.categories-links
+{
+	padding:0px 20px;
+}
+
+.categories-links ul
+{
+	list-style: none;
+	padding-left: 30px;
+}
+
+.footer-end
+{
+	border-top:5px solid white;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.footer-images img
+{
+	width: 32.2%;
+}
